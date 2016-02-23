@@ -24,7 +24,7 @@
 #import <HMSegmentedControl/HMSegmentedControl.h>
 #import <MXPagerView/MXPagerView.h>
 #import <MXParallaxHeader/MXParallaxHeader.h>
-
+#import <MXParallaxHeader/MXScrollView.h>
 NS_ASSUME_NONNULL_BEGIN
 
 /**
