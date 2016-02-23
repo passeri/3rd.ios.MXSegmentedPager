@@ -191,6 +191,7 @@ typedef void (^MXProgressBlock) (CGFloat progress);
  */
 @interface MXSegmentedPager : UIView
 
+@property (nonatomic, readonly) MXScrollView* contentView;
 /**
  Delegate instance that adopt the MXSegmentedPagerDelegate.
  */
